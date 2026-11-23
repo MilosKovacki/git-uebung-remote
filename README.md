@@ -1,1 +1,1 @@
-# git-uebung-remote
+Stand aus Repo A (Konflikt-Test)
