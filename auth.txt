@@ -1,1 +1,2 @@
 Auth entwurf
+Token-Pruefung hinzugefuegt
